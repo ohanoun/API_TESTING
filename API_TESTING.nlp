@@ -1,0 +1,13 @@
+# Project description file
+
+project.name=API_TESTING
+project.version=7.0
+project.original.version=7.0
+product.name=NeoLoad
+product.original.name=NeoLoad
+product.original.version=7.3.0
+project.id=d2c6e893-dcc5-4e60-889b-00c94e5dc2b2
+project.config.path=config.zip
+project.config.storage=ZIP
+team.server.enabled=true
+team.server.project=ohanoun/API_TESTING
