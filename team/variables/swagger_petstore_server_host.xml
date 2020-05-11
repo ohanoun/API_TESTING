@@ -1,0 +1,1 @@
+<variable-constant constantValue="petstore.swagger.io" name="swagger_petstore_server_host" order="1" policy="4" range="2" uid="5655bb51-532f-42fd-9a78-b0d8f156a85a" whenOutOfValues="CYCLE_VALUES"/>

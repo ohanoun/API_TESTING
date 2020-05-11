@@ -1,0 +1,13 @@
+<basic-logical-action-container element-number="1" execution-type="0"
+    name="pet" pacingEnd="0" pacingMode="MODE_NO_PACING" pacingStart="0"
+    pacingValue="0" slaProfileEnabled="false"
+    uid="1ebd00f0-bfae-4ea4-aec7-dc5eb5b60d89" weightsEnabled="false">
+    <weighted-embedded-action uid="7d23907f-2d26-4b6e-b10d-24fb28c75ad7"/>
+    <weighted-embedded-action uid="c3eb73c8-f102-4044-88a7-fec934269266"/>
+    <weighted-embedded-action uid="b2d471c0-7762-4881-a015-c8a4c3ee23d5"/>
+    <weighted-embedded-action uid="13c2eec5-e763-4ee6-a457-90b0b40668ea"/>
+    <weighted-embedded-action uid="732f21f8-6350-4846-825e-a0c26292be9e"/>
+    <weighted-embedded-action uid="3d063f7c-3c35-447f-88ef-23dd85a38a03"/>
+    <weighted-embedded-action uid="0f2130dc-acb8-4009-a81d-f16f8579d111"/>
+    <weighted-embedded-action uid="c4dc49c8-8ee6-4f8f-883d-f929bf3a8115"/>
+</basic-logical-action-container>

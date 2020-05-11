@@ -1,0 +1,74 @@
+<http-page executeResourcesDynamically="false"
+    name="/jpetstore/shop/viewProduct.shtml"
+    playRequestsSequentially="false"
+    recordedArtifactZipFileName="team/vus/@jpetstore @user/%resources%/recorded-artifacts/ec894585-47ae-4a90-89e2-3ddea51f1255.zip"
+    slaProfileEnabled="false" thinkTime="4586"
+    thinkTimeMode="MODE_SIMPLE_THINK_TIME" thinkTimeRangeEnd=""
+    thinkTimeRangeStart="" uid="ec894585-47ae-4a90-89e2-3ddea51f1255">
+    <embedded-action>f8074fe3-3240-452f-b538-e81590e35ea9</embedded-action>
+    <embedded-action>cab75c3c-0767-4b7f-b2a1-61bed14be3c4</embedded-action>
+    <screenshotFileDescription>recorded-screenshots/sc_dc2bddfc-5525-4fad-a5de-4cfad6b61bd1.jpg</screenshotFileDescription>
+</http-page>
+<http-action actionType="1" contentType="text/html;charset=ISO-8859-1"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/jpetstore/shop/viewProduct.shtml"
+    path="/jpetstore/shop/viewProduct.shtml" postType="2"
+    recordedArtifactZipFileName="team/vus/@jpetstore @user/%resources%/recorded-artifacts/ec894585-47ae-4a90-89e2-3ddea51f1255.zip"
+    recordedResponseCode="200"
+    refererUid="d6c38eb7-091f-4993-a6d5-f1a4d0993c1b"
+    responseSize="3920" serverUid="54.83.75.54"
+    slaProfileEnabled="false" uid="f8074fe3-3240-452f-b538-e81590e35ea9" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_0fa096d9-c41c-4c69-b8c1-da1962e2b2d0.html</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_0fa096d9-c41c-4c69-b8c1-da1962e2b2d0.txt</requestContentFileDescription>
+    <parameter encodeName="true" encodeValue="true" name="productId"
+        recordRawValue="FI-FW-01" separator="=" value="FI-FW-01" valueMode="USE_VALUE"/>
+    <header name="Accept" value="text/html, application/xhtml+xml, image/jxr, */*"/>
+    <header name="Accept-Encoding" value="gzip, deflate"/>
+    <header name="Accept-Language" value="en-US"/>
+    <header name="Cookie" value="JSESSIONID=3FB075CF32A9D4294C3520592016B443"/>
+    <header name="Host" value="54.83.75.54"/>
+    <header name="Proxy-Connection" value="Keep-Alive"/>
+    <header name="Referer" value="http://54.83.75.54/jpetstore/shop/viewCategory.shtml?categoryId=FISH&amp;id=1589227139847"/>
+    <header name="User-Agent" value="Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; rv:11.0) like Gecko"/>
+    <responseHeaders>HTTP/1.1 200 OK&#xd;
+Date: Mon, 11 May 2020 19:59:19 GMT&#xd;
+Server: Apache/2.2.34 (Amazon)&#xd;
+Content-Length: 3920&#xd;
+Connection: close&#xd;
+Content-Type: text/html;charset=ISO-8859-1</responseHeaders>
+    <record-html-infos extractorContent="FI-FW-01"
+        extractorOccurence="11" extractorRegExp="false" htmlType="1"/>
+</http-action>
+<http-action actionType="1" contentType="image/gif"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/jpetstore/images/button_add_to_cart.gif"
+    path="/jpetstore/images/button_add_to_cart.gif" postType="2"
+    recordedArtifactZipFileName="team/vus/@jpetstore @user/%resources%/recorded-artifacts/ec894585-47ae-4a90-89e2-3ddea51f1255.zip"
+    recordedResponseCode="200" responseSize="0" serverUid="54.83.75.54"
+    slaProfileEnabled="false" uid="cab75c3c-0767-4b7f-b2a1-61bed14be3c4" useKeepAlive="false">
+    <requestContentFileDescription>recorded-requests/req_dd62066a-3b7b-46b5-895c-0a84677152a4.txt</requestContentFileDescription>
+    <header name="Accept" value="image/png, image/svg+xml, image/jxr, image/*;q=0.8, */*;q=0.5"/>
+    <header name="Accept-Encoding" value="gzip, deflate"/>
+    <header name="Accept-Language" value="en-US"/>
+    <header name="Cookie" value="JSESSIONID=3FB075CF32A9D4294C3520592016B443"/>
+    <header name="Host" value="54.83.75.54"/>
+    <header name="Proxy-Connection" value="Keep-Alive"/>
+    <header name="Referer" value="http://54.83.75.54/jpetstore/shop/viewProduct.shtml?productId=FI-FW-01"/>
+    <header name="User-Agent" value="Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; rv:11.0) like Gecko"/>
+    <responseHeaders>HTTP/1.1 200 OK&#xd;
+Date: Mon, 11 May 2020 19:59:19 GMT&#xd;
+Server: Apache/2.2.34 (Amazon)&#xd;
+Accept-Ranges: bytes&#xd;
+ETag: W/"481-1088130660000"&#xd;
+Last-Modified: Fri, 25 Jun 2004 02:31:00 GMT&#xd;
+Content-Length: 481&#xd;
+Connection: close&#xd;
+Content-Type: image/gif</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
