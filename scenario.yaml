@@ -1,0 +1,6 @@
+scenarios:
+- name: scenario1
+  populations:
+  - name: Population1
+    constant_load:
+      users: 10
