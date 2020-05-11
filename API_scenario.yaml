@@ -1,3 +1,4 @@
+name: API_TESTING
 scenarios:
 - name: scenario1
   populations:
