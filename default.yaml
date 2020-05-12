@@ -3,5 +3,5 @@ scenarios:
   populations:
   - name: Population1
     constant_load:
-      users: 10
+      users: 20
       duration: 2m
