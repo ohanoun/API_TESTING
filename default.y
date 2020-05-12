@@ -1,7 +1,0 @@
-scenarios:
-- name: scenario2
-  populations:
-  - name: Population1
-    constant_load:
-      users: 10
-      duration: 2m
